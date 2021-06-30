@@ -1,0 +1,9 @@
+.lead {
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  color:#fff;
+  padding: 0;
+  max-width: 984px;
+}

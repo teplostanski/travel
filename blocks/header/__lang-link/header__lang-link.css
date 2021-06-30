@@ -1,0 +1,8 @@
+.header__lang-link {
+  margin-right: 18px;
+}
+
+.header__lang-link:last-of-type {
+  margin-right: 0;
+}
+
