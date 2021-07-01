@@ -6,16 +6,3 @@
   justify-content: center;
   align-items: center;
 }
-
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-background-image: url(../../../images/cover_trains.jpg);
-background-size: cover;
-background-position: center;
-box-sizing: border-box;
-position: relative;
-text-decoration: none;
-width: 100%;
-max-width: 1184px;
