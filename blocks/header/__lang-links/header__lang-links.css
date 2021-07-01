@@ -2,7 +2,7 @@
   list-style: none;
   display: flex;
   margin: 0;
-  padding: 0;
+  padding: 0px 0px 5px 0;
   font-size: 24px;
   font-style:  normal;
   font-weight: 400;
@@ -13,6 +13,7 @@
   .header__lang-links {
     font-size: 18px;
     line-height: 1.11;
+		padding: 0px 0px 8px 0;
   }
 }
 

@@ -20,6 +20,8 @@
 {
 .place {
   grid-template-columns: 340px minmax(min-content,max-content);
+  grid-template-rows: 89px minmax(min-content,max-content);
+  column-gap: 28px;
 }
 }
 

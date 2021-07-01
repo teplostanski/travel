@@ -3,12 +3,18 @@
   font-size: 72px;
   font-weight: 900;
   line-height: 1.06;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%; 
 }
 
 @media screen and (max-width: 850px) {
   .place__title{
+		display: grid;
+    align-items: end;
     font-size: 42px;
     line-height: 1.1;
+		max-width: 330px;
   }
 }
 
