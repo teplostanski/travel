@@ -30,6 +30,7 @@
 .place {
   grid-template-columns: minmax(min-content,max-content);
   justify-items: center;
+	row-gap: 31px;
 }
 }
 
