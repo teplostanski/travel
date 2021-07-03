@@ -3,10 +3,13 @@
   font-weight: 400;
   line-height: 1.12;
   margin-right: 18px;
+	transition: opacity 0.6s;
+  text-decoration: none;
+  color: #fff;
 }
 
-.footer__link:last-of-type {
-  margin: 0;
+.footer__link:hover {
+  opacity: 0.6;
 }
 
 @media screen and (max-width: 720px) {

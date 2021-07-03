@@ -1,6 +1,6 @@
 .page__link {
   transition: opacity 0.6s;
-  text-decoration: none;
+  text-decoration: underline;
   color: #fff;
 }
 
