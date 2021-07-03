@@ -12,6 +12,10 @@
   opacity: 0.6;
 }
 
+.footer__link:last-of-type {
+	margin: 0;
+}
+
 @media screen and (max-width: 720px) {
   .footer__link {
     margin: 0 0 32px;

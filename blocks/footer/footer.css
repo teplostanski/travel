@@ -22,7 +22,7 @@
   .footer {
     margin: 0;
     padding: 0 0 24px 16px;
-    max-width: 186px;
+    max-width: 300px;
     flex-direction: column;
     align-items: flex-start;
   }
