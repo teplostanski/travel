@@ -1,3 +1,4 @@
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/r0bomur10k/travel/master) ![Website](https://img.shields.io/website?color=gold&label=r0bomurl10k.github.io%2Ftravel&up_color=gree&up_message=online&url=https%3A%2F%2Fr0bomur10k.github.io%2Ftravel%2F)  ![GitHub watchers](https://img.shields.io/github/watchers/r0bomur10k/travel?style=social)
 # Проект: Путешествие по России
 
 Адаптивная веб-страничка "Путешествия по России", описывающая необыкновенные места России, о которых мы не знали.
@@ -18,8 +19,6 @@
 - Оптимизации шрифтов.
 - Метатега корректного масштабирования страницы (@media).
 - font-face для подключения сторонних шрифтов.
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/r0bomur10k/travel/master) ![Website](https://img.shields.io/website?color=gold&label=r0bomurl10k.github.io%2Ftravel&up_color=gree&up_message=online&url=https%3A%2F%2Fr0bomur10k.github.io%2Ftravel%2F)  ![GitHub watchers](https://img.shields.io/github/watchers/r0bomur10k/travel?style=social)
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
