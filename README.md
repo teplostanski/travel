@@ -1,4 +1,4 @@
-https://img.shields.io/github/last-commit/r0bomur10k/travel/master
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/r0bomur10k/travel/master)
 # Проект: Путешествие по России
 
 Адаптивная веб-страничка "Путешествия по России", описывающая необыкновенные места России, о которых мы не знали.
