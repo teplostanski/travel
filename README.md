@@ -1,6 +1,6 @@
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/r0bomurlok/travel/master)
-![Website](https://img.shields.io/website?color=gold&label=r0bomurlok.github.io%2Ftravel&up_color=gree&up_message=online&url=https%3A%2F%2Fr0bomurlok.github.io%2Ftravel%2F)
-![GitHub watchers](https://img.shields.io/github/watchers/r0bomurlok/travel?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/teplostanski/travel/master)
+![Website](https://img.shields.io/website?color=gold&label=teplostanski.github.io%2Ftravel&up_color=gree&up_message=online&url=https%3A%2F%2Fteplostanski.github.io%2Ftravel%2F)
+![GitHub watchers](https://img.shields.io/github/watchers/teplostanski/travel?style=social)
 
 # Проект: Путешествие по России
 
@@ -23,7 +23,7 @@
 
 ---
 
-### *Посмотреть пороект на GitHub Pages: https://r0bomurlok.github.io/travel/*
+### *Посмотреть пороект на GitHub Pages: https://teplostanski.github.io/travel/*
 
 ### *Проект раелизован по макету из [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)*
 
